@@ -1,1 +1,4 @@
-# test_backend
+
+### Comands:
+
+- `npm start` &mdash; start server in production
