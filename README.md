@@ -2,6 +2,6 @@
 ### Commands:
 
 
-- `npm i` &mdash; 
+- `npm i` &mdash;  install dependencies
 - `npm start` &mdash; start server in production
 
